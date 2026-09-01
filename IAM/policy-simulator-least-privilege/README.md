@@ -1,4 +1,4 @@
-# Lab 07 — IAM Policy Simulator & Least Privilege
+# Lab- IAM Policy Simulator & Least Privilege
 
 ## Objective
 
